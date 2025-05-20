@@ -1,20 +1,24 @@
-# Fake Store App
+# 🛍️ Fake Store App
 
-A ReactJS application that fetches product data from the Fake Store API and allows users to add products to the cart through a modal interface.
+A ReactJS application that fetches product data from the **Fake Store API** and allows users to add products to a cart through a modal interface.
 
-## Features
-- Fetch and display products from the Fake Store API.
-- Add products to the cart.
-- Display cart items in a modal.
-- Remove items from the cart.
-- Responsive design.
+---
 
-## Technologies Used
-- ReactJS
-- Tailwind CSS (via CDN)
-- Axios for API calls
+## 🚀 Features
 
-## How to Run
-1. Clone the repository.
-2. Run `npm install` to install dependencies.
-3. Run `npm run dev` to start the development server.
+- 🔄 Fetch and display products from the Fake Store API  
+- 🛒 Add products to the cart  
+- 🧾 View cart items inside a modal popup  
+- ❌ Remove items from the cart  
+- 📱 Responsive design for desktop and mobile devices  
+
+---
+
+## 🛠️ Technologies Used
+
+- **ReactJS** – Frontend library for building UI  
+- **Tailwind CSS (via CDN)** – Utility-first CSS framework for styling  
+- **Axios** – For making API requests  
+
+---
+
